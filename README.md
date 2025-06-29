@@ -1,6 +1,6 @@
 # ✊✋✌️ Rock, Paper, Scissors
 
-![Game Screenshot](./assets/screenshot.png)
+![Game Screenshot](./assets/Screenshot.png)
 
 ## 🕹️ Description
 
